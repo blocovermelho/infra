@@ -49,11 +49,11 @@ services:
     container_name: mc-season2
     environment:
       EULA: 'TRUE'
-      VERSION: 1.19.3
+      VERSION: 1.21.11
       MEMORY: "1G"
       USE_AIKAR_FLAGS: true
       ONLINE_MODE: 'FALSE'
-      TYPE: QUILT
+      TYPE: FABRIC
       PACKWIZ_URL: 'https://blocovermelho.github.io/server-mods/pack.toml'
       VANILLATWEAKS_FILE: '/config/vt/datapacks.json'
     tty: true
