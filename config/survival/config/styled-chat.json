@@ -14,7 +14,7 @@
     "emoticons": false
   },
   "default": {
-    "display_name": "%luckperms:prefix%${default}",
+    "display_name": "${default}",
     "message_formats": {
       "chat": "<${player}> ${message}",
       "joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
@@ -58,7 +58,10 @@
       "dark_aqua": true,
       "dark_gray": true,
       "spoiler": true,
-      "strikethrough": true
+      "strikethrough": true,
+      "color": true,
+      "rainbow": true,
+      "gradient": true
     },
     "emoticons": {
       "potion": "🧪",
@@ -76,7 +79,7 @@
       "xyz": "%player:pos_x% %player:pos_y% %player:pos_z%",
       "xy": "%player:pos_x% %player:pos_y%",
       "fire": "🔥",
-      "table": "(╯°□°）╯︵ ┻━┻",
+      "table": "(╯°□°）╯︵ ┻━┻"
     },
     "custom_message_types": {}
   },

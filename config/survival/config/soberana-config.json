@@ -1,17 +1,18 @@
 {
     "api": {
         "endpoint": "api:8080",
-        "token": "",
+        "token": "fvA3ndH9MuHmitLjs2uiLdFNdS.cA9Fwo.2OlenBIWwCueS8WAkcn09wkwtUy93QkdwnhpwH",
         "tls": false
     },
     "server": {
-        "name": "dev",
+        "name": "v2",
         "versions": [
-        ],
-        "ip": "localhost:25565",
+		"1.19.3"
+	],
+        "ip": "soberanacraft.net",
         "modded": false,
-        "modpackUrl": "",
-        "platform": "Java",
+        "modpackUrl": "https://modrinth.com/modpack/soberana-basics",
+        "platform": "Both",
         "modloader": "quilt"
     }
 }

@@ -2,8 +2,8 @@
     "domainName":"soberanacraft.net",
     "proxyTo":"mc-season2:25565",
     "offlineStatus": {
-        "versionName": "1.19.3",
-        "protocolNumber": 761,
+        "versionName": "1.21.11",
+        "protocolNumber": 774,
         "maxPlayers": 0,
         "playersOnline": 99,
         "motd": "Servidor Iniciando..."
